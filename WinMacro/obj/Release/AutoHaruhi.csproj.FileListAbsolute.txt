@@ -1,0 +1,8 @@
+C:\Users\Raquel\Desktop\AutoHaruhi\bin\Release\AutoHaruhi.exe.config
+C:\Users\Raquel\Desktop\AutoHaruhi\bin\Release\AutoHaruhi.exe
+C:\Users\Raquel\Desktop\AutoHaruhi\bin\Release\AutoHaruhi.pdb
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Release\AutoHaruhi.AutoHaruhi.resources
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Release\AutoHaruhi.Properties.Resources.resources
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Release\AutoHaruhi.csproj.GenerateResource.Cache
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Release\AutoHaruhi.exe
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Release\AutoHaruhi.pdb

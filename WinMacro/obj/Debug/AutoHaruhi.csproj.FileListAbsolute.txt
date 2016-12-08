@@ -1,0 +1,9 @@
+C:\Users\Raquel\Desktop\AutoHaruhi\bin\Debug\AutoHaruhi.exe.config
+C:\Users\Raquel\Desktop\AutoHaruhi\bin\Debug\AutoHaruhi.exe
+C:\Users\Raquel\Desktop\AutoHaruhi\bin\Debug\AutoHaruhi.pdb
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Debug\AutoHaruhi.csprojResolveAssemblyReference.cache
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Debug\AutoHaruhi.Properties.Resources.resources
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Debug\AutoHaruhi.csproj.GenerateResource.Cache
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Debug\AutoHaruhi.exe
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Debug\AutoHaruhi.pdb
+C:\Users\Raquel\Desktop\AutoHaruhi\obj\Debug\AutoHaruhi.AutoHaruhi.resources
